@@ -1,0 +1,146 @@
+package                * version    date       source                              
+ acepack                  1.4.1      2016-10-29 CRAN (R 3.3.0)                      
+ ade4                     1.7-4      2016-03-01 CRAN (R 3.3.0)                      
+ annotate                 1.52.0     2016-10-28 Bioconductor                        
+ AnnotationDbi            1.36.0     2016-10-28 Bioconductor                        
+ AnnotationHub            2.6.4      2016-12-05 Bioconductor                        
+ ape                    * 4.0        2016-12-01 CRAN (R 3.3.0)                      
+ assertthat               0.1        2013-12-06 CRAN (R 3.3.0)                      
+ base64enc                0.1-3      2015-07-28 CRAN (R 3.3.0)                      
+ Biobase                * 2.34.0     2016-10-28 Bioconductor                        
+ BiocGenerics           * 0.20.0     2016-10-28 Bioconductor                        
+ BiocInstaller            1.24.0     2016-10-27 Bioconductor                        
+ BiocParallel           * 1.8.1      2016-11-21 Bioconductor                        
+ BiocStyle                2.2.1      2016-12-05 Bioconductor                        
+ biomaRt                * 2.30.0     2016-10-28 Bioconductor                        
+ Biostrings             * 2.42.1     2016-12-05 Bioconductor                        
+ biovizBase               1.22.0     2016-10-28 Bioconductor                        
+ bitops                   1.0-6      2013-08-17 CRAN (R 3.3.0)                      
+ bookdown               * 0.3        2016-11-28 CRAN (R 3.3.0)                      
+ broom                    0.4.1      2016-06-24 CRAN (R 3.3.0)                      
+ BSgenome                 1.42.0     2016-10-28 Bioconductor                        
+ caTools                * 1.17.1     2014-09-10 CRAN (R 3.3.0)                      
+ cluster                  2.0.5      2016-10-08 CRAN (R 3.3.0)                      
+ coda                   * 0.18-1     2015-10-16 CRAN (R 3.3.0)                      
+ colorspace               1.3-1      2016-11-18 CRAN (R 3.3.0)                      
+ corpcor                  1.6.8      2015-07-08 CRAN (R 3.3.0)                      
+ cubature                 1.1-2      2013-02-25 CRAN (R 3.3.0)                      
+ d3heatmap              * 0.6.1.1    2016-02-23 CRAN (R 3.3.0)                      
+ data.table             * 1.10.0     2016-12-03 CRAN (R 3.3.0)                      
+ DBI                      0.5-1      2016-09-10 CRAN (R 3.3.0)                      
+ DEoptim                * 2.2-3      2015-01-09 CRAN (R 3.3.0)                      
+ DESeq2                 * 1.14.1     2016-12-05 Bioconductor                        
+ devtools                 1.12.0     2016-06-24 CRAN (R 3.3.0)                      
+ dichromat                2.0-0      2013-01-24 CRAN (R 3.3.0)                      
+ digest                   0.6.10     2016-08-02 CRAN (R 3.3.0)                      
+ dplyr                  * 0.5.0      2016-06-24 CRAN (R 3.3.0)                      
+ DT                     * 0.2        2016-08-09 CRAN (R 3.3.0)                      
+ edgeR                  * 3.16.4     2016-12-05 Bioconductor                        
+ ensembldb                1.6.2      2016-11-21 Bioconductor                        
+ foreign                  0.8-67     2016-09-13 CRAN (R 3.3.0)                      
+ Formula                  1.2-1      2015-04-07 CRAN (R 3.3.0)                      
+ futile.logger          * 1.4.3      2016-07-10 CRAN (R 3.3.0)                      
+ futile.options           1.0.0      2010-04-06 CRAN (R 3.3.0)                      
+ geepack                * 1.2-1      2016-09-24 CRAN (R 3.3.0)                      
+ genefilter               1.56.0     2016-10-28 Bioconductor                        
+ geneplotter              1.52.0     2016-10-28 Bioconductor                        
+ GenomeInfoDb           * 1.10.1     2016-11-21 Bioconductor                        
+ GenomicAlignments      * 1.10.0     2016-10-28 Bioconductor                        
+ GenomicFeatures          1.26.0     2016-10-28 Bioconductor                        
+ GenomicFiles             1.10.3     2016-10-28 Bioconductor                        
+ GenomicRanges          * 1.26.1     2016-10-28 Bioconductor                        
+ ggplot2                * 2.2.0      2016-11-11 CRAN (R 3.3.0)                      
+ gmailr                 * 0.7.1.9000 2016-06-10 Github (jimhester/gmailr@76dd6a8)   
+ graph                    1.52.0     2016-10-28 Bioconductor                        
+ gridExtra                2.2.1      2016-02-29 CRAN (R 3.3.0)                      
+ gsubfn                 * 0.6-6      2014-08-27 CRAN (R 3.3.0)                      
+ gtable                   0.2.0      2016-02-26 CRAN (R 3.3.0)                      
+ Gviz                   * 1.18.1     2016-12-05 Bioconductor                        
+ highcharter            * 0.4.0.9999 2016-12-05 Github (jbkunst/highcharter@a13d789)
+ Hmisc                    4.0-0      2016-11-01 CRAN (R 3.3.0)                      
+ htmlTable                1.7        2016-10-19 CRAN (R 3.3.0)                      
+ htmltools              * 0.3.5      2016-03-21 CRAN (R 3.3.0)                      
+ htmlwidgets              0.8        2016-11-09 CRAN (R 3.3.0)                      
+ httpuv                   1.3.3      2015-08-04 CRAN (R 3.3.0)                      
+ httr                   * 1.2.1      2016-07-03 CRAN (R 3.3.0)                      
+ hwriter                  1.3.2      2014-09-10 CRAN (R 3.3.0)                      
+ igraph                 * 1.0.1      2015-06-26 CRAN (R 3.3.0)                      
+ interactiveDisplayBase   1.12.0     2016-10-28 Bioconductor                        
+ IRanges                * 2.8.1      2016-11-21 Bioconductor                        
+ jsonlite               * 1.1        2016-09-14 CRAN (R 3.3.0)                      
+ KEGGREST               * 1.14.0     2016-10-28 Bioconductor                        
+ knitr                  * 1.15.1     2016-11-22 CRAN (R 3.3.0)                      
+ lambda.r                 1.1.9      2016-07-10 CRAN (R 3.3.0)                      
+ lattice                  0.20-34    2016-09-06 CRAN (R 3.3.0)                      
+ latticeExtra             0.6-28     2016-02-09 CRAN (R 3.3.0)                      
+ lazyeval                 0.2.0      2016-06-12 CRAN (R 3.3.0)                      
+ limma                  * 3.30.6     2016-12-05 Bioconductor                        
+ locfit                   1.5-9.1    2013-04-20 CRAN (R 3.3.0)                      
+ lubridate                1.6.0      2016-09-13 CRAN (R 3.3.0)                      
+ magrittr                 1.5        2014-11-22 CRAN (R 3.3.0)                      
+ markdown                 0.7.7      2015-04-22 CRAN (R 3.3.0)                      
+ Matrix                 * 1.2-7.1    2016-09-01 CRAN (R 3.3.0)                      
+ matrixStats              0.51.0     2016-10-09 CRAN (R 3.3.0)                      
+ MCMCglmm               * 2.24       2016-11-14 CRAN (R 3.3.0)                      
+ memoise                  1.0.0      2016-01-29 CRAN (R 3.3.0)                      
+ MESS                   * 0.4-3      2016-06-21 CRAN (R 3.3.0)                      
+ mime                     0.5        2016-07-07 CRAN (R 3.3.0)                      
+ miniUI                   0.1.1      2016-01-15 CRAN (R 3.3.0)                      
+ mnormt                   1.5-5      2016-10-15 CRAN (R 3.3.0)                      
+ munsell                  0.4.3      2016-02-13 CRAN (R 3.3.0)                      
+ nlme                     3.1-128    2016-05-10 CRAN (R 3.3.0)                      
+ nnet                     7.3-12     2016-02-02 CRAN (R 3.3.0)                      
+ openxlsx               * 3.1.16     2016-06-10 Github (awalker89/openxlsx@860c048) 
+ plyr                   * 1.8.4      2016-06-08 CRAN (R 3.3.0)                      
+ png                      0.1-7      2013-12-03 CRAN (R 3.3.0)                      
+ proto                  * 1.0.0      2016-10-29 CRAN (R 3.3.0)                      
+ psych                    1.6.9      2016-09-17 CRAN (R 3.3.0)                      
+ purrr                  * 0.2.2      2016-06-18 CRAN (R 3.3.0)                      
+ quantmod                 0.4-7      2016-10-24 CRAN (R 3.3.0)                      
+ R6                       2.2.0      2016-10-05 CRAN (R 3.3.0)                      
+ RamiGO                 * 1.20.0     2016-10-28 Bioconductor                        
+ RColorBrewer             1.1-2      2014-12-07 CRAN (R 3.3.0)                      
+ Rcpp                   * 0.12.8     2016-11-17 CRAN (R 3.3.0)                      
+ RCurl                    1.95-4.8   2016-03-01 CRAN (R 3.3.0)                      
+ RCytoscape               1.24.1     2016-10-28 Bioconductor                        
+ readr                  * 1.0.0      2016-08-03 CRAN (R 3.3.0)                      
+ reshape2               * 1.4.2      2016-10-22 CRAN (R 3.3.0)                      
+ rlist                    0.4.6.1    2016-04-04 CRAN (R 3.3.0)                      
+ rpart                    4.1-10     2015-06-29 CRAN (R 3.3.0)                      
+ Rqc                    * 1.8.0      2016-10-28 Bioconductor                        
+ Rsamtools              * 1.26.1     2016-10-28 Bioconductor                        
+ RSQLite                  1.1        2016-11-27 CRAN (R 3.3.0)                      
+ rstudioapi               0.6        2016-06-27 CRAN (R 3.3.0)                      
+ rtracklayer              1.34.1     2016-11-21 Bioconductor                        
+ S4Vectors              * 0.12.1     2016-12-05 Bioconductor                        
+ scales                   0.4.1      2016-11-09 CRAN (R 3.3.0)                      
+ ScreenBEAM             * 1.0.0      2016-08-01 Github (jyyu/ScreenBEAM@d6204b3)    
+ seqinr                 * 3.3-3      2016-10-13 CRAN (R 3.3.0)                      
+ sgRSEA                 * 0.1        2015-06-15 CRAN (R 3.3.0)                      
+ shiny                  * 0.14.2     2016-11-01 CRAN (R 3.3.0)                      
+ shinyBS                * 0.61       2015-03-31 CRAN (R 3.3.0)                      
+ shinydashboard         * 0.5.3      2016-09-20 CRAN (R 3.3.0)                      
+ shinyjs                * 0.8        2016-11-03 CRAN (R 3.3.0)                      
+ ShortRead              * 1.32.0     2016-10-28 Bioconductor                        
+ sm                     * 2.2-5.4    2014-01-16 CRAN (R 3.3.0)                      
+ stringi                  1.1.2      2016-10-01 CRAN (R 3.3.0)                      
+ stringr                  1.1.0      2016-08-19 CRAN (R 3.3.0)                      
+ SummarizedExperiment   * 1.4.0      2016-10-28 Bioconductor                        
+ survival                 2.40-1     2016-10-30 CRAN (R 3.3.0)                      
+ tensorA                  0.36       2010-12-01 CRAN (R 3.3.0)                      
+ tibble                 * 1.2        2016-08-26 CRAN (R 3.3.0)                      
+ tidyr                  * 0.6.0      2016-08-12 CRAN (R 3.3.0)                      
+ tidyverse              * 1.0.0      2016-09-09 CRAN (R 3.3.0)                      
+ TTR                      0.23-1     2016-03-21 CRAN (R 3.3.0)                      
+ VariantAnnotation        1.20.2     2016-12-05 Bioconductor                        
+ VennDiagram            * 1.6.17     2016-04-18 CRAN (R 3.3.0)                      
+ viridisLite              0.1.3      2016-03-12 CRAN (R 3.3.0)                      
+ withr                    1.0.2      2016-06-20 CRAN (R 3.3.0)                      
+ XML                      3.98-1.5   2016-11-10 CRAN (R 3.3.0)                      
+ XMLRPC                   0.3-0      2016-09-15 CRAN                             
+ xtable                   1.8-2      2016-02-05 CRAN (R 3.3.0)                      
+ xts                      0.9-7      2014-01-02 CRAN (R 3.3.0)                      
+ XVector                * 0.14.0     2016-10-28 Bioconductor                        
+ yaml                     2.1.14     2016-11-12 CRAN (R 3.3.0)                      
+ zlibbioc                 1.20.0     2016-10-28 Bioconductor                        
+ zoo                      1.7-13     2016-05-03 CRAN (R 3.3.0)  
