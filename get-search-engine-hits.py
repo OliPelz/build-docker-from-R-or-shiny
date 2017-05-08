@@ -9,6 +9,7 @@ fname = "./r-libs.txt"
 with open(fname) as fp:
     for line in fp:
        # this "dummy request" avoids the problem but i dunno why
+       # see https://github.com/mikejs/python-duckduckgo/issues/3 
        duckduckgo.query("foo")
        content = line.strip() + " R"
        search_result = duckduckgo.get_zci(content)
