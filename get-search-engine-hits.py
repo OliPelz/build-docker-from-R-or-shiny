@@ -1,4 +1,4 @@
-# this script searches google for R packages so we can quickly categorize if the package is a 
+# this script searches duckduckgo for R packages so we can quickly categorize if the package is a 
 # CRAN, bioconductor, github or other package
 # creates some nice output
 import duckduckgo,time
